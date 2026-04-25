@@ -18,4 +18,4 @@ Built with **Laravel 13**, **Filament 5**, and a modular monolith architecture.
 - Public blog
 - 11 languages
 
-**Enterprise Edition** with campaigns, billing, payments and more — [hello@seolinkplace.com](mailto:hello@seolinkplace.com)
+**Enterprise Edition** with campaigns, billing, payments and more available separately.
